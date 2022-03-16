@@ -1,6 +1,9 @@
 # TemperatureCharts_PythonProject
 A form in TkInter using data from two API's and presenting the temperature in Warsaw. Generates a chart based on the range of years and the holiday day selected by the user. 
 
+## What the app looks like
+![alt_text](https://github.com/MarunowskiJan/TemperatureCharts_PythonProject/blob/main/screenshots/Python_project.PNG)
+
 ## How to run the app
 1. Open Visual Studio Code.
 2. Open terminal and run this command "python -m pip install requests".
@@ -14,8 +17,6 @@ A form in TkInter using data from two API's and presenting the temperature in Wa
 
 ## User Stories
 - A user can 
-
-## What the app looks like
 
 ## Dictionary for user
 - Wybierz święto - Choose holiday
