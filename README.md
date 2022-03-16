@@ -17,11 +17,11 @@ A form in TkInter using data from two API's and presenting the temperature in Wa
 
 ## What the app looks like
 
-##Dictionary for user
--Wybierz święto - Choose holiday
--Boże Ciało - Corpus Christi Day
--Nowy Rok - New Year
--Wielkanoc - Easter
--Święto Pracy - Labour Day
--Zakres lat (2014-2021) - Range of years (2014-2021)
--Generuj wykres - Generate a chart
+## Dictionary for user
+- Wybierz święto - Choose holiday
+- Boże Ciało - Corpus Christi Day
+- Nowy Rok - New Year
+- Wielkanoc - Easter
+- Święto Pracy - Labour Day
+- Zakres lat (2014-2021) - Range of years (2014-2021)
+- Generuj wykres - Generate a chart
