@@ -16,7 +16,10 @@ A form in TkInter using data from two API's and presenting the temperature in Wa
 3. Press "Generuj wykres"(If you don't know what that mean, check dictionary down below).
 
 ## User Stories
-- A user can 
+- The user is able to see the temperature change on the selected holiday over the years.
+
+## Technologies
+- Python 3.9.2
 
 ## Dictionary for user
 - Wybierz święto - Choose holiday
